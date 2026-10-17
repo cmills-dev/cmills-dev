@@ -1,6 +1,6 @@
 # Cameron Mills
 
-I build practical AI systems for work, learning and research.
+Building practical AI systems, tools and automation. Sharing what I build and learn.
 
 [Portfolio](https://thecameronmills.com) · [LinkedIn](https://www.linkedin.com/in/cameron-mills--/) · [Email](mailto:dev@thecameronmills.com) · [Camillo Labs](https://github.com/camillo-labs)
 
