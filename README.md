@@ -1,3 +1,5 @@
+![Less noise. More signal. Cameron Mills and connected AI builds.](assets/profile-banner.png)
+
 # Cameron Mills
 
 Building practical AI systems, tools and automation. Sharing what I build and learn.
@@ -6,11 +8,30 @@ Building practical AI systems, tools and automation. Sharing what I build and le
 
 I'm studying for the Master in Management at INSEAD, after a First Class BSc in Physics and Astrophysics at the University of Bath. My focus is applied AI: turning a recurring problem into a useful workflow, then building the checks that show whether it worked.
 
-## Selected projects
+<p align="center">
+  <img src="assets/chief-of-staff-logo.png" width="64" alt="Chief of Staff mark" />
+</p>
+
+<h2 align="center">Chief of Staff</h2>
+<p align="center"><strong>Go to sleep. Wake up sorted.</strong><br />A night shift for everything you run.</p>
+
+[![Chief of Staff brings the day's evidence together. Watch the launch film.](assets/chief-of-staff-feature.jpg)](https://github.com/cmills-dev/chief-of-staff/blob/main/docs/media/chief-of-staff-v15.mp4)
+
+My overnight coordination layer reviews recorded work, brings unresolved priorities to the surface and leaves one thinking-ahead note for the morning. Permitted maintenance actions are logged, and threads close against recorded evidence.
+
+The public project includes the launch film, original visual assets and an explanation of the system. The working installation sits inside my personal command centre.
+
+<p align="center">
+  <a href="https://github.com/cmills-dev/chief-of-staff/blob/main/docs/media/chief-of-staff-v15.mp4"><strong>Watch the 64.5-second film</strong></a> ·
+  <a href="https://github.com/cmills-dev/chief-of-staff"><strong>Explore Chief of Staff</strong></a>
+</p>
+
+---
+
+## More projects
 
 | Project | What it does |
 | --- | --- |
-| [Chief of Staff](https://github.com/cmills-dev/chief-of-staff) | The overnight coordination layer: reviews recorded work, raises priorities and leaves a morning note. Launch film and project showcase. |
 | [Steward](https://github.com/cmills-dev/steward) | Manages unattended Claude Code runs, with checkpoints, usage-limit pauses, queued resumes and crash reports. |
 | [Polaris](https://github.com/cmills-dev/polaris-desk) | A local desktop dashboard for agent questions, results, commands and terminals. |
 | [Build pipeline](https://github.com/cmills-dev/claude-build-pipeline) | Takes a build request through research, review, planning, implementation and checked stage gates. |
