@@ -15,7 +15,7 @@ I'm studying for the Master in Management at INSEAD, after a First Class BSc in 
 <h2 align="center">Chief of Staff</h2>
 <p align="center"><strong>Go to sleep. Wake up sorted.</strong><br />A night shift for everything you run.</p>
 
-[![Chief of Staff brings the day's evidence together. Watch the launch film.](assets/chief-of-staff-feature.jpg)](https://github.com/cmills-dev/chief-of-staff/blob/main/docs/media/chief-of-staff-v15.mp4)
+https://github.com/user-attachments/assets/e32e7fc3-2e8a-401b-90b7-edaa72fa1282
 
 My overnight coordination layer reviews recorded work, brings unresolved priorities to the surface and leaves one thinking-ahead note for the morning. Permitted maintenance actions are logged, and threads close against recorded evidence.
 
