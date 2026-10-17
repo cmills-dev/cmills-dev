@@ -10,6 +10,7 @@ I'm studying for the Master in Management at INSEAD, after a First Class BSc in 
 
 | Project | What it does |
 | --- | --- |
+| [Chief of Staff](https://github.com/cmills-dev/chief-of-staff) | The overnight coordination layer: reviews recorded work, raises priorities and leaves a morning note. Launch film and project showcase. |
 | [Steward](https://github.com/cmills-dev/steward) | Manages unattended Claude Code runs, with checkpoints, usage-limit pauses, queued resumes and crash reports. |
 | [Polaris](https://github.com/cmills-dev/polaris-desk) | A local desktop dashboard for agent questions, results, commands and terminals. |
 | [Build pipeline](https://github.com/cmills-dev/claude-build-pipeline) | Takes a build request through research, review, planning, implementation and checked stage gates. |
