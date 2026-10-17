@@ -4,7 +4,7 @@
 
 Building practical AI systems, tools and automation. Sharing what I build and learn.
 
-[Portfolio](https://thecameronmills.com) · [LinkedIn](https://www.linkedin.com/in/cameron-mills--/) · [Email](mailto:dev@thecameronmills.com) · [Camillo Labs](https://github.com/camillo-labs)
+[X](https://x.com/CMills_Dev) · [YouTube](https://www.youtube.com/@CMills_Dev) · [Instagram](https://www.instagram.com/cmills_dev/) · [Reddit](https://www.reddit.com/user/CMills_Dev/) · [LinkedIn](https://www.linkedin.com/in/cameron-mills--/) · [Portfolio](https://thecameronmills.com) · [Email](mailto:dev@thecameronmills.com) · [Camillo Labs](https://github.com/camillo-labs)
 
 I'm studying for the Master in Management at INSEAD, after a First Class BSc in Physics and Astrophysics at the University of Bath. My focus is applied AI: turning a recurring problem into a useful workflow, then building the checks that show whether it worked.
 
