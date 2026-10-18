@@ -35,7 +35,7 @@ The public project includes the launch film, original visual assets and an expla
 <h2 align="center">Steward</h2>
 <p align="center"><strong>Keep the work moving.</strong><br />Checkpoints, queued work and saved sessions for coding agents.</p>
 
-https://github.com/user-attachments/assets/e5d2fde6-dc21-428f-86a7-9323a048cb48
+https://github.com/user-attachments/assets/c8e3786a-6b8a-46fe-91b1-0ba2e8dc6205
 
 I built Steward to save progress during long agent jobs and queue work for later. Same-provider runs can continue in their saved native conversation.
 
