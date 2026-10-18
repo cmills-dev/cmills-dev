@@ -28,11 +28,33 @@ The public project includes the launch film, original visual assets and an expla
 
 ---
 
+<p align="center">
+  <img src="assets/steward-logo.png" width="64" alt="Steward mark" />
+</p>
+
+<h2 align="center">Steward</h2>
+<p align="center"><strong>Keep the work moving.</strong><br />Checkpoints, queued work and saved sessions for coding agents.</p>
+
+https://github.com/user-attachments/assets/e5d2fde6-dc21-428f-86a7-9323a048cb48
+
+I built Steward to save progress during long agent jobs and queue work for later. Same-provider runs can continue in their saved native conversation.
+
+The portable v0.2.0 preview supports Claude Code, Codex and local models. Switching provider starts a fresh conversation from a checkpoint. Automatic context rotation and fallback remain Claude-only. Successful real local-model completion is still unverified.
+
+<p align="center">
+  <a href="https://youtu.be/bYyQCbWb0Xw"><strong>Watch the full launch film</strong></a> ·
+  <a href="https://github.com/cmills-dev/steward/releases/tag/v0.2.0"><strong>Download the preview</strong></a> ·
+  <a href="https://github.com/cmills-dev/steward"><strong>Explore Steward</strong></a>
+</p>
+
+The clip illustrates a configured run. Follow the build and share feedback on <a href="https://x.com/CMills_Dev">X</a>.
+
+---
+
 ## More projects
 
 | Project | What it does |
 | --- | --- |
-| [Steward](https://github.com/cmills-dev/steward) | Manages unattended Claude Code runs, with checkpoints, usage-limit pauses, queued resumes and crash reports. |
 | [Polaris](https://github.com/cmills-dev/polaris-desk) | A local desktop dashboard for agent questions, results, commands and terminals. |
 | [Build pipeline](https://github.com/cmills-dev/claude-build-pipeline) | Takes a build request through research, review, planning, implementation and checked stage gates. |
 | [Knowledge bank](https://github.com/cmills-dev/lt-knowledge-bank) | Gives agents access to claims backed by exact source lines, with checks for stale evidence. |
